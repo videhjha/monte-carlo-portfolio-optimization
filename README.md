@@ -53,5 +53,5 @@ This project simulates long-term portfolio returns using Monte Carlo methods, ap
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/monte-carlo-portfolio-nse.git
+   git clone https://github.com/videhjha/monte-carlo-portfolio-nse.git
    cd monte-carlo-portfolio-nse
